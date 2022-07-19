@@ -1,0 +1,7 @@
+$footer: (
+    color: grey,
+    tamaño: 100%,
+);
+footer{
+    background-color: map-get($footer, color);
+    width: map-get($footer, tamaño);}
