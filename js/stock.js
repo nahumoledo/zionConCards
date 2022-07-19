@@ -3,13 +3,13 @@ let ropa = [
         id: 1,
         nombre: "Buzo Crema",
         precio: 5000,
-        img: '/img/hoodie.jpg',
+        img: "/img/hoodie.jpg",
     },
     {
         id: 2,
         nombre: "Buzo Negro",
         precio: 5000,
-        img: '/img/hoodie.jpg',
+        img: "/img/hoodie.jpg",
     },
     {
         id: 3,
