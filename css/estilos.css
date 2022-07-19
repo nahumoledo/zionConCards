@@ -148,6 +148,9 @@ label {
 input {
   font-family: txt;
 }
+span {
+  font-family: txt;
+}
 
 #cont_list {
   list-style: none;
